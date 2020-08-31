@@ -1,4 +1,9 @@
 # TesteJava
+
+Api java com crud básico feito em springboot usando o banco de dados MySQL. Veja o projeto funcionando em: https://api-java.waldmanpsicologia.com.br/
+
+
+
 ----------------------Endpoints atualizados:----------------------
 
 Lista tudo: https://waldman-api-produto.herokuapp.com/apw/api/v1/products
